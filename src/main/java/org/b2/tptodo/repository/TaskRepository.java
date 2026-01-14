@@ -1,6 +1,6 @@
-package repository;
+package org.b2.tptodo.repository;
 
-import model.Task;
+import org.b2.tptodo.model.Task;
 
 import java.util.ArrayList;
 import java.util.List;

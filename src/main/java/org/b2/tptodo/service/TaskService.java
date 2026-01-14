@@ -1,8 +1,8 @@
-package service;
+package org.b2.tptodo.service;
 
-import model.Task;
-import model.TaskStatus;
-import repository.TaskRepository;
+import org.b2.tptodo.model.Task;
+import org.b2.tptodo.model.TaskStatus;
+import org.b2.tptodo.repository.TaskRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

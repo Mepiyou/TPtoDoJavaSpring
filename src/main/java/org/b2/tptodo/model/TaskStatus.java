@@ -1,4 +1,4 @@
-package model;
+package org.b2.tptodo.model;
 
 public enum TaskStatus {
     TODO("TODO","A faire"),

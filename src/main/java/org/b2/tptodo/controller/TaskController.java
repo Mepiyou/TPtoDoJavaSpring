@@ -1,7 +1,7 @@
-package controller;
+package org.b2.tptodo.controller;
 
-import model.Task;
-import service.TaskService;
+import org.b2.tptodo.model.Task;
+import org.b2.tptodo.service.TaskService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
