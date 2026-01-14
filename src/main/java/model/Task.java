@@ -10,7 +10,8 @@ public class Task {
     private LocalDate dueDate;
     private  static long countid = 1;
 
-
+    public Task() {
+    }
 
     public Task(String title, String description, LocalDate dueDate){
 
